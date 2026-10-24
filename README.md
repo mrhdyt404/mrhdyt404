@@ -39,25 +39,6 @@
 <img src="https://skillicons.dev/icons?i=php,laravel,js,python,mysql,html,css,bootstrap,git,github,linux,docker&perline=6" alt="Tech Stack"/>
 
 </div>
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| [SIMOLI](https://github.com/mrhdyt404/simoli) | Monitoring system, PWA, and AI assistant development |
-| [BooBar](https://github.com/mrhdyt404/BooBar) | Web application project |
-| [BengkelPOS](https://github.com/mrhdyt404/bengkelpos) | Workshop management and point-of-sale project |
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mrhdyt404&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhdyt404&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=mrhdyt404&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
 </div>
 
 ---
