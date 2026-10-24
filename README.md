@@ -1,5 +1,17 @@
 # Hi there, I'm mrhdyt404 👋
-
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mrhdyt404/mrhdyt404/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mrhdyt404/mrhdyt404/output/github-contribution-grid-snake.svg">
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/mrhdyt404/mrhdyt404/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript;Automation+%26+AI+Enthusiast;Building+Something+Useful+Every+Day" alt="Typing SVG" />
