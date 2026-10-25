@@ -1,4 +1,14 @@
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/mrhdyt404/mrhdyt404/main/matrix.svg"
+    width="100%"
+    alt="Matrix digital rain animation"
+  />
+</div>
+
 # Hi there, I'm mrhdyt404 👋
+
 <p align="center">
   <picture>
     <source
@@ -12,6 +22,7 @@
       src="https://raw.githubusercontent.com/mrhdyt404/mrhdyt404/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript;Automation+%26+AI+Enthusiast;Building+Something+Useful+Every+Day" alt="Typing SVG" />
@@ -28,7 +39,6 @@
 
 <img src="https://skillicons.dev/icons?i=php,laravel,js,python,mysql,html,css,bootstrap,git,github,linux,docker&perline=6" alt="Tech Stack"/>
 
-</div>
 </div>
 
 ---
