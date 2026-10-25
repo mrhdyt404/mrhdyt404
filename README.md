@@ -22,16 +22,6 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-- 💻 Developer interested in web applications and system automation.
-- ⚙️ Working with PHP, Laravel, JavaScript, Python, and MySQL/MariaDB.
-- 🤖 Exploring AI assistants, browser automation, and intelligent workflows.
-- 📱 Interested in PWA and offline-first application development.
-- 🚀 Always learning, building, and improving.
-
 ## 🛠️ Tech Stack
 
 <div align="center">
