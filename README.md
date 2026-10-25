@@ -1,12 +1,4 @@
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/mrhdyt404/mrhdyt404/main/matrix.svg"
-    width="100%"
-    alt="Matrix digital rain animation"
-  />
-</div>
-
 # Hi there, I'm mrhdyt404 👋
 
 <p align="center">
