@@ -1,5 +1,5 @@
 
-# Hi there, I'm mrhdyt404 👋
+# Hi there, I'm mrhdyt404 
 
 <p align="center">
   <picture>
